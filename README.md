@@ -1,2 +1,2 @@
 # Proyecto-Soledad
-Gaimers quieren hacer un videojuego
+Proyecto de un videojuego de terror para la asignatura de Diseño de Videojuegos de Diseño y Tecnologías Creativas.
